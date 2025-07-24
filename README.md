@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm MD. Rashedunnabi</h1>
+<h1 align="center">Hi 👋, I'm MD. Rashedunnabi</h1>
 <h3 align="center">Competitive Programmer | Software Engineering Enthusiast | Problem Solving Expert</h3>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 I'm a passionate **Computer Science Engineering** student at Jagannath University, Dhaka, with a strong foundation in competitive programming and software development. With **2100+ problems solved** across multiple platforms and consistent participation in prestigious programming contests like **ICPC**, **NCPC**, and **IEEE Xtreme**, I thrive on solving complex algorithmic challenges.
 
--   🎯 **Currently Learning:** MERN Stack, AI/ML through research
--   💻 **Ask me about:** Data Structures & Algorithms, Competitive Programming, Web Development
--   🏆 **Achievements:** Codeforces Specialist, LeetCode Knight (Top 6.03%), IEEE Xtreme Country Rank 5/74
+-   🎯 **Currently Learning:** 🛠️ MERN Stack, 🤖 AI/ML through research
+-   💻 **Ask me about:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Web Development
+-   🏆 **Achievements:** 🥇 Codeforces Specialist, 🎖️ LeetCode Knight (Top 6.03%), 🏅 IEEE Xtreme Country Rank 5/74
 -   📫 **Reach me:** [mramuhit@gmail.com](mailto:mramuhit@gmail.com)
--   📍 **Location:** Dhaka, Bangladesh
+-   📍 **Location:** 🇧🇩 Dhaka, Bangladesh
 
 ---
 
@@ -39,22 +39,45 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
 
 <div align="center">
   
-### 🥇 Platform Rankings
-| Platform | Rating | Problems Solved | Rank |
-|----------|--------|----------------|------|
-| **Codeforces** | 1408 (Specialist) | 1200+ | [Profile](https://codeforces.com/profile/Rashedunnabi) |
-| **LeetCode** | 1846 (Knight) | 200+ | Top 6.03% [Profile](https://leetcode.com/u/Rashedunnabi/) |
-| **CodeChef** | 1760 (3 Star) | - | [Profile](https://www.codechef.com/users/rashedunnabi2) |
+### 🥇 Platform Rankings & Problem Solving Statistics
+| Platform | Rating | Problems Solved | Rank/Status |
+|----------|--------|----------------|-------------|
+| 🔥 **Codeforces** | 1408 (Specialist) | **1300+** | [Profile](https://codeforces.com/profile/Rashedunnabi) |
+| ⚡ **LeetCode** | 1846 (Knight) | **235+** | Top 6.03% [Profile](https://leetcode.com/u/Rashedunnabi/) |
+| 🍳 **CodeChef** | 1760 (3 Star) | **150+** | [Profile](https://www.codechef.com/users/rashedunnabi2) |
+| 💻 **GeeksforGeeks** | - | **180+** | Problem Solving Focus |
+| 🥷 **Coding Ninjas** | - | **185+** | Algorithm Mastery |
+| 🌟 **Others** | - | **50+** | Various Platforms |
+
+### 📈 **Total Problems Solved: 2100+** 🎯
 
 </div>
 
-### 🎖️ Contest Achievements
+### 🎖️ Contest Achievements & Participations
 
--   **IEEE Xtreme 2024:** Country Rank **5/74** | Global Rank **806/5801** (Team: JnUxDefenders)
--   **IEEE Xtreme 2023:** Country Rank **6/43** | Global Rank **1121/4231** (Team: ARSfire)
--   **ICPC Onsite 2024:** Rank **192/309** teams (Team: TrioOfUttoranchal_JnU)
--   **JnU Intra Programming Contest 2023:** **2nd Runner-Up**
--   **Multiple IUPC participations** with consistent top 100 rankings
+#### 🏆 **Major Contest Highlights**
+
+-   🥇 **IEEE Xtreme 2024:** Country Rank **5/74** | Global Rank **806/5801** (Team: JnUxDefenders)
+-   🥈 **IEEE Xtreme 2023:** Country Rank **6/43** | Global Rank **1121/4231** (Team: ARSfire)
+-   🏆 **ICPC Onsite 2024:** Rank **192/309** teams (Team: TrioOfUttoranchal_JnU)
+-   🥉 **JnU Intra Programming Contest 2023:** **2nd Runner-Up**
+-   � **NCPC Onsite 2023:** Rank **170/196** teams (Team: JnU_Bitflips)
+
+#### 📊 **Contest Participation Summary**
+
+| Contest Type                   | Participations | Best Achievement               |
+| ------------------------------ | -------------- | ------------------------------ |
+| 🌟 **ICPC Preliminary**        | **3 times**    | ✅ Qualified for Onsite (2024) |
+| 🚀 **ICPC Onsite**             | **1 time**     | 🏆 Rank 192/309 teams          |
+| 🏁 **NCPC Onsite**             | **1 time**     | 🎯 Rank 170/196 teams          |
+| ⚡ **IEEE Xtreme**             | **2 times**    | 🥇 Country Rank 5/74           |
+| 🎓 **IUPC (Inter-University)** | **Multiple**   | 🎯 Consistent Top 100 Rankings |
+
+#### 🎯 **Recent IUPC Participations (2025)**
+
+-   📍 **DUET IUPC 2025:** Rank **87/131** teams (Team: Trio_of_Uttaranchal_JnU)
+-   📍 **AUST IUPC 2025:** Rank **72/130** teams (Team: TrioOfUttoranchal_JnU)
+-   📍 **UIU IUPC 2025:** Rank **65/160** teams (Team: Trio_Of_Uttaranchal_JnU)
 
 ---
 
@@ -62,7 +85,7 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
 
 <div align="center">
 
-### Programming Languages
+### 🔧 Programming Languages
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -72,7 +95,7 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -82,7 +105,7 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -126,45 +149,45 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
 
 ### 🎯 Charity Donation Web Platform
 
-**Tech Stack:** PHP, MySQL, JavaScript
+**Tech Stack:** 🐘 PHP, 🗄️ MySQL, ⚡ JavaScript
 
--   Developed a **secure donation platform** facilitating seamless transactions
--   Implemented **role-based access control** and encrypted transaction tracking
--   Optimized database queries, improving system performance by **25%**
--   Features user authentication, donation tracking, and admin dashboard
+-   Developed a **🔒 secure donation platform** facilitating seamless transactions
+-   Implemented **👥 role-based access control** and 🔐 encrypted transaction tracking
+-   Optimized database queries, improving system performance by **📈 25%**
+-   Features 🔑 user authentication, 📊 donation tracking, and 🛠️ admin dashboard
 
 ---
 
 ## 🎓 Education & Certifications
 
 **🎓 B.Sc. in Computer Science & Engineering** _(2020 - 2025)_  
-Jagannath University, Dhaka | **CGPA: 3.52/4.00**
+🏛️ Jagannath University, Dhaka | **📊 CGPA: 3.52/4.00**
 
 ### 📜 Professional Certifications
 
--   **Software Engineer** - HackerRank (2023)
--   **Problem Solving (Intermediate)** - HackerRank (2023)
--   **Master Git and GitHub (Beginner to Expert)** - Udemy (2023)
--   **Master HTML and CSS by Building Real World Projects** - Udemy (2022)
+-   🥇 **Software Engineer** - HackerRank (2023)
+-   🧩 **Problem Solving (Intermediate)** - HackerRank (2023)
+-   🔧 **Master Git and GitHub (Beginner to Expert)** - Udemy (2023)
+-   🎨 **Master HTML and CSS by Building Real World Projects** - Udemy (2022)
 
 ---
 
 ## 📈 What I'm Currently Working On
 
--   🔭 **Learning:** Advanced MERN Stack development and modern web technologies
--   🌱 **Exploring:** AI/ML through research projects and applications
--   💡 **Building:** Full-stack web applications with modern frameworks
--   🎯 **Goal:** Contributing to open-source projects and building impactful software solutions
+-   🔭 **Learning:** 🛠️ Advanced MERN Stack development and modern web technologies
+-   🌱 **Exploring:** 🤖 AI/ML through research projects and applications
+-   💡 **Building:** 🌐 Full-stack web applications with modern frameworks
+-   🎯 **Goal:** 🌟 Contributing to open-source projects and building impactful software solutions
 
 ---
 
 ## 🎯 Goals & Interests
 
--   **Software Development:** Building scalable and efficient web applications
--   **Competitive Programming:** Continuously improving problem-solving skills
--   **Research:** Exploring AI/ML applications in real-world scenarios
--   **Open Source:** Contributing to meaningful projects in the developer community
--   **Teaching:** Sharing knowledge through mentoring and technical content
+-   💻 **Software Development:** Building scalable and efficient web applications
+-   🏆 **Competitive Programming:** Continuously improving problem-solving skills
+-   🔬 **Research:** Exploring AI/ML applications in real-world scenarios
+-   🌍 **Open Source:** Contributing to meaningful projects in the developer community
+-   👨‍🏫 **Teaching:** Sharing knowledge through mentoring and technical content
 
 ---
 
