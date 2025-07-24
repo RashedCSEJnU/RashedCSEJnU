@@ -45,8 +45,8 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
 | 🔥 **Codeforces** | 1408 (Specialist) | **1235+** | [Profile](https://codeforces.com/profile/Rashedunnabi) |
 | ⚡ **LeetCode** | 1846 (Knight) | **235+** | Top 6.03% [Profile](https://leetcode.com/u/Rashedunnabi/) |
 | 🍳 **CodeChef** | 1760 (3 Star) | **150+** | [Profile](https://www.codechef.com/users/rashedunnabi2) |
-| 💻 **GeeksforGeeks** | Score: 682 | **180+** | Problem Solving Focus |
-| 🥷 **Coding Ninjas** | League Master (Level 7) | **185+** | Algorithm Mastery |
+| 💻 **GeeksforGeeks** | Score: 682 | **180+** | [Profile](https://www.geeksforgeeks.org/user/rashed_cse_jnu/) | 
+| 🥷 **Coding Ninjas** | League Master (Level 7) | **185+** | [Profile](https://www.naukri.com/code360/profile/rashedunnabi) |
 | 🌟 **Others** | - | **50+** | Various Platforms |
 
 ### 📈 **Total Problems Solved: 2085+** 🎯
