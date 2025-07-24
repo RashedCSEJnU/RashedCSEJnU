@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering** student at Jagannath University, Dhaka, with a strong foundation in competitive programming and software development. With **2100+ problems solved** across multiple platforms and consistent participation in prestigious programming contests like **ICPC**, **NCPC**, and **IEEE Xtreme**, I thrive on solving complex algorithmic challenges.
+I'm a passionate **Computer Science and Engineering** student at Jagannath University, Dhaka, with a strong foundation in competitive programming and software development. With **2100+ problems solved** across multiple platforms and consistent participation in prestigious programming contests like **ICPC**, **NCPC**, and **IEEE Xtreme**, I thrive on solving complex algorithmic challenges.
 
 -   🎯 **Currently Learning:** 🛠️ MERN Stack, 🤖 AI/ML through research
 -   💻 **Ask me about:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Web Development
