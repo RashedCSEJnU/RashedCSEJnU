@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD. Rashedunnabi</h1>
+<h1 align="center">Hi , I'm MD. Rashedunnabi</h1>
 <h3 align="center">Competitive Programmer | Software Engineering Enthusiast | Problem Solving Expert</h3>
 
 <p align="center">
