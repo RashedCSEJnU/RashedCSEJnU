@@ -13,7 +13,7 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
 
 -   🎯 **Currently Learning:** 🛠️ MERN Stack, 🤖 AI/ML through research
 -   💻 **Ask me about:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Web Development
--   🏆 **Achievements:** 🥇 Codeforces Specialist, 🎖️ LeetCode Knight (Top 6.03%), 🏅 IEEE Xtreme Country Rank 5/74
+-   🏆 **Achievements:** 🥇 Codeforces Specialist, 🎖️ LeetCode Knight (Top 6.03%), 🏅 Codechef 3 star
 -   📫 **Reach me:** [mramuhit@gmail.com](mailto:mramuhit@gmail.com)
 -   📍 **Location:** 🇧🇩 Dhaka, Bangladesh
 
@@ -40,16 +40,16 @@ I'm a passionate **Computer Science Engineering** student at Jagannath Universit
 <div align="center">
   
 ### 🥇 Platform Rankings & Problem Solving Statistics
-| Platform | Rating | Problems Solved | Rank/Status |
-|----------|--------|----------------|-------------|
-| 🔥 **Codeforces** | 1408 (Specialist) | **1300+** | [Profile](https://codeforces.com/profile/Rashedunnabi) |
+| Platform | Rating/Level | Problems Solved | Rank/Status |
+|----------|-------------|----------------|-------------|
+| 🔥 **Codeforces** | 1408 (Specialist) | **1235+** | [Profile](https://codeforces.com/profile/Rashedunnabi) |
 | ⚡ **LeetCode** | 1846 (Knight) | **235+** | Top 6.03% [Profile](https://leetcode.com/u/Rashedunnabi/) |
 | 🍳 **CodeChef** | 1760 (3 Star) | **150+** | [Profile](https://www.codechef.com/users/rashedunnabi2) |
-| 💻 **GeeksforGeeks** | - | **180+** | Problem Solving Focus |
-| 🥷 **Coding Ninjas** | - | **185+** | Algorithm Mastery |
+| 💻 **GeeksforGeeks** | Score: 682 | **180+** | Problem Solving Focus |
+| 🥷 **Coding Ninjas** | League Master (Level 7) | **185+** | Algorithm Mastery |
 | 🌟 **Others** | - | **50+** | Various Platforms |
 
-### 📈 **Total Problems Solved: 2100+** 🎯
+### 📈 **Total Problems Solved: 2085+** 🎯
 
 </div>
 
