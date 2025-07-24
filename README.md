@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science and Engineering** student at Jagannath University, Dhaka, with a strong foundation in competitive programming and software development. With **2100+ problems solved** across multiple platforms and consistent participation in prestigious programming contests like **ICPC**, **NCPC**, and **IEEE Xtreme**, I thrive on solving complex algorithmic challenges.
+I'm a passionate **Computer Science and Engineering** student at Jagannath University, Dhaka, with a strong foundation in competitive programming and software development. With **2085+ problems solved** across multiple platforms and consistent participation in prestigious programming contests like **ICPC**, **NCPC**, and **IEEE Xtreme**, I thrive on solving complex algorithmic challenges.
 
 -   🎯 **Currently Learning:** 🛠️ MERN Stack, 🤖 AI/ML through research
 -   💻 **Ask me about:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Web Development
@@ -61,7 +61,7 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 -   🥈 **IEEE Xtreme 2023:** Country Rank **6/43** | Global Rank **1121/4231** (Team: ARSfire)
 -   🏆 **ICPC Onsite 2024:** Rank **192/309** teams (Team: TrioOfUttoranchal_JnU)
 -   🥉 **JnU Intra Programming Contest 2023:** **2nd Runner-Up**
--   � **NCPC Onsite 2023:** Rank **170/196** teams (Team: JnU_Bitflips)
+-   🏅 **NCPC Onsite 2023:** Rank **170/196** teams (Team: JnU_Bitflips)
 
 #### 📊 **Contest Participation Summary**
 
@@ -165,10 +165,10 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 
 ### 📜 Professional Certifications
 
--   🥇 **Software Engineer** - HackerRank (2023)
--   🧩 **Problem Solving (Intermediate)** - HackerRank (2023)
--   🔧 **Master Git and GitHub (Beginner to Expert)** - Udemy (2023)
--   🎨 **Master HTML and CSS by Building Real World Projects** - Udemy (2022)
+-   🥇 **Software Engineer** - HackerRank (2023) | [🔗 Verify Certificate](https://www.hackerrank.com/certificates/543da8611016)
+-   🧩 **Problem Solving (Intermediate)** - HackerRank (2023) | [🔗 Verify Certificate](https://www.hackerrank.com/certificates/3f65bfb4c291)
+-   🔧 **Master Git and GitHub (Beginner to Expert)** - Udemy (2023) | [🔗 Verify Certificate](https://www.udemy.com/certificate/UC-c0d1f7b4-9c37-4601-9e2e-0c9cc7de07fb/)
+-   🎨 **Master HTML and CSS by Building Real World Projects** - Udemy (2022) | [🔗 Verify Certificate](https://www.udemy.com/certificate/UC-c1e6b5cd-bfdd-439d-9f63-84ab9415e1c8/)
 
 ---
 
