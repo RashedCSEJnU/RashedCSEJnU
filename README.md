@@ -15,7 +15,7 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 -   💻 **Ask me about:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Web Development
 -   🏆 **Achievements:** 🥇 Codeforces Specialist, 🎖️ LeetCode Knight (Top 6.03%), 🏅 Codechef 3 star
 -   📫 **Reach me:** [mramuhit@gmail.com](mailto:mramuhit@gmail.com)
--   📍 **Location:** 🇧🇩 Dhaka, Bangladesh
+-   📍 **Location:** Dhaka, Bangladesh
 
 ---
 
