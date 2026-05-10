@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Rashedunnabi</h1>
-<h3 align="center">Competitive Programmer | Software Engineering Enthusiast | Problem Solving Expert</h3>
+<h3 align="center">Software Engineer @ Samsung R&D Institute, Bangladesh | Competitive Programmer | Problem Solving Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RashedCSEJnU&label=Profile%20views&color=0e75b6&style=flat" alt="RashedCSEJnU" />
@@ -9,13 +9,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science and Engineering** student at Jagannath University, Dhaka, with a strong foundation in competitive programming and software development. With **2085+ problems solved** across multiple platforms and consistent participation in prestigious programming contests like **ICPC**, **NCPC**, and **IEEE Xtreme**, I thrive on solving complex algorithmic challenges.
+I'm a **Software Engineer** at **Samsung R&D Institute, Bangladesh**, with a strong foundation in competitive programming, algorithms, and full-stack software development. As a **Computer Science and Engineering graduate** from Jagannath University, Dhaka, I've demonstrated expertise through solving **2085+ problems** and competing at the highest levels of programming contests including **ICPC**, **NCPC**, and **IEEE Xtreme**.
 
--   🎯 **Currently Learning:** 🛠️ MERN Stack, 🤖 AI/ML through research
--   💻 **Ask me about:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Web Development
--   🏆 **Achievements:** 🥇 Codeforces Specialist, 🎖️ LeetCode Knight (Top 6.03%), 🏅 Codechef 3 star
--   📫 **Reach me:** [mramuhit@gmail.com](mailto:mramuhit@gmail.com)
--   📍 **Location:** Dhaka, Bangladesh
+- 💼 **Currently:** Software Engineer @ Samsung R&D Institute, Bangladesh
+- 🎯 **Specialization:** Backend Development, 🔧 System Design, 🤖 Problem Solving at Scale
+- 💻 **Expertise:** 📊 Data Structures & Algorithms, 🏆 Competitive Programming, 🌐 Full-Stack Development, 🛠️ MERN Stack
+- 🏆 **Achievements:** 🥇 Codeforces Specialist, 🎖️ LeetCode Knight (Top 6.03%), 🏅 Codechef 3 star
+- 📫 **Reach me:** [mramuhit@gmail.com](mailto:mramuhit@gmail.com)
+- 📍 **Location:** Dhaka, Bangladesh
 
 ---
 
@@ -57,11 +58,11 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 
 #### 🏆 **Major Contest Highlights**
 
--   🥇 **IEEE Xtreme 2024:** Country Rank **5/74** | Global Rank **806/5801** (Team: JnUxDefenders)
--   🥈 **IEEE Xtreme 2023:** Country Rank **6/43** | Global Rank **1121/4231** (Team: ARSfire)
--   🏆 **ICPC Onsite 2024:** Rank **192/309** teams (Team: TrioOfUttoranchal_JnU)
--   🥉 **JnU Intra Programming Contest 2023:** **2nd Runner-Up**
--   🏅 **NCPC Onsite 2023:** Rank **170/196** teams (Team: JnU_Bitflips)
+- 🥇 **IEEE Xtreme 2024:** Country Rank **5/74** | Global Rank **806/5801** (Team: JnUxDefenders)
+- 🥈 **IEEE Xtreme 2023:** Country Rank **6/43** | Global Rank **1121/4231** (Team: ARSfire)
+- 🏆 **ICPC Onsite 2024:** Rank **192/309** teams (Team: TrioOfUttoranchal_JnU)
+- 🥉 **JnU Intra Programming Contest 2023:** **2nd Runner-Up**
+- 🏅 **NCPC Onsite 2023:** Rank **170/196** teams (Team: JnU_Bitflips)
 
 #### 📊 **Contest Participation Summary**
 
@@ -75,9 +76,9 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 
 #### 🎯 **Recent IUPC Participations (2025)**
 
--   📍 **DUET IUPC 2025:** Rank **87/131** teams (Team: Trio_of_Uttaranchal_JnU)
--   📍 **AUST IUPC 2025:** Rank **72/130** teams (Team: TrioOfUttoranchal_JnU)
--   📍 **UIU IUPC 2025:** Rank **65/160** teams (Team: Trio_Of_Uttaranchal_JnU)
+- 📍 **DUET IUPC 2025:** Rank **87/131** teams (Team: Trio_of_Uttaranchal_JnU)
+- 📍 **AUST IUPC 2025:** Rank **72/130** teams (Team: TrioOfUttoranchal_JnU)
+- 📍 **UIU IUPC 2025:** Rank **65/160** teams (Team: Trio_Of_Uttaranchal_JnU)
 
 ---
 
@@ -151,10 +152,10 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 
 **Tech Stack:** 🐘 PHP, 🗄️ MySQL, ⚡ JavaScript
 
--   Developed a **🔒 secure donation platform** facilitating seamless transactions
--   Implemented **👥 role-based access control** and 🔐 encrypted transaction tracking
--   Optimized database queries, improving system performance by **📈 25%**
--   Features 🔑 user authentication, 📊 donation tracking, and 🛠️ admin dashboard
+- Developed a **🔒 secure donation platform** facilitating seamless transactions
+- Implemented **👥 role-based access control** and 🔐 encrypted transaction tracking
+- Optimized database queries, improving system performance by **📈 25%**
+- Features 🔑 user authentication, 📊 donation tracking, and 🛠️ admin dashboard
 
 ---
 
@@ -165,29 +166,29 @@ I'm a passionate **Computer Science and Engineering** student at Jagannath Unive
 
 ### 📜 Professional Certifications
 
--   🥇 **Software Engineer** - HackerRank (2023) | [🔗 Verify Certificate](https://www.hackerrank.com/certificates/543da8611016)
--   🧩 **Problem Solving (Intermediate)** - HackerRank (2023) | [🔗 Verify Certificate](https://www.hackerrank.com/certificates/3f65bfb4c291)
--   🔧 **Master Git and GitHub (Beginner to Expert)** - Udemy (2023) | [🔗 Verify Certificate](https://www.udemy.com/certificate/UC-c0d1f7b4-9c37-4601-9e2e-0c9cc7de07fb/)
--   🎨 **Master HTML and CSS by Building Real World Projects** - Udemy (2022) | [🔗 Verify Certificate](https://www.udemy.com/certificate/UC-c1e6b5cd-bfdd-439d-9f63-84ab9415e1c8/)
+- 🥇 **Software Engineer** - HackerRank (2023) | [🔗 Verify Certificate](https://www.hackerrank.com/certificates/543da8611016)
+- 🧩 **Problem Solving (Intermediate)** - HackerRank (2023) | [🔗 Verify Certificate](https://www.hackerrank.com/certificates/3f65bfb4c291)
+- 🔧 **Master Git and GitHub (Beginner to Expert)** - Udemy (2023) | [🔗 Verify Certificate](https://www.udemy.com/certificate/UC-c0d1f7b4-9c37-4601-9e2e-0c9cc7de07fb/)
+- 🎨 **Master HTML and CSS by Building Real World Projects** - Udemy (2022) | [🔗 Verify Certificate](https://www.udemy.com/certificate/UC-c1e6b5cd-bfdd-439d-9f63-84ab9415e1c8/)
 
 ---
 
 ## 📈 What I'm Currently Working On
 
--   🔭 **Learning:** 🛠️ Advanced MERN Stack development and modern web technologies
--   🌱 **Exploring:** 🤖 AI/ML through research projects and applications
--   💡 **Building:** 🌐 Full-stack web applications with modern frameworks
--   🎯 **Goal:** 🌟 Contributing to open-source projects and building impactful software solutions
+- 🔭 **Learning:** 🛠️ Advanced MERN Stack development and modern web technologies
+- 🌱 **Exploring:** 🤖 AI/ML through research projects and applications
+- 💡 **Building:** 🌐 Full-stack web applications with modern frameworks
+- 🎯 **Goal:** 🌟 Contributing to open-source projects and building impactful software solutions
 
 ---
 
 ## 🎯 Goals & Interests
 
--   💻 **Software Development:** Building scalable and efficient web applications
--   🏆 **Competitive Programming:** Continuously improving problem-solving skills
--   🔬 **Research:** Exploring AI/ML applications in real-world scenarios
--   🌍 **Open Source:** Contributing to meaningful projects in the developer community
--   👨‍🏫 **Teaching:** Sharing knowledge through mentoring and technical content
+- 💻 **Software Development:** Building scalable and efficient web applications
+- 🏆 **Competitive Programming:** Continuously improving problem-solving skills
+- 🔬 **Research:** Exploring AI/ML applications in real-world scenarios
+- 🌍 **Open Source:** Contributing to meaningful projects in the developer community
+- 👨‍🏫 **Teaching:** Sharing knowledge through mentoring and technical content
 
 ---
 
