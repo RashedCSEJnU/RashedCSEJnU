@@ -132,12 +132,6 @@ I also enjoy solving algorithmic problems and building efficient software. My co
 
 </div>
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashedCSEJnU&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -210,7 +204,7 @@ I also enjoy solving algorithmic problems and building efficient software. My co
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashedCSEJnU&theme=github_dark" alt="GitHub activity summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashedCSEJnU&theme=github-dark-blue&border_radius=10" alt="GitHub activity streak" />
 
 </div>
 
